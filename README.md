@@ -1,5 +1,6 @@
 # Anycubic-Kobra-Max-Klipper-Conversion
-My trials and tribulations on converting my Kobra Max
+# You will need to remove resistor R66 on your circuit board and place it in R65 spot
+# Please see https://www.reddit.com/r/anycubic/comments/ynvbj0/anycubic_kobra_working_config for detailed information
 
 The printer this has been configured for is stock minus just some Capricorn tubing (and of course the Klipper conversion)
 

@@ -27,4 +27,4 @@ Changed microsteps for X/Y to 64 as per invisiblek:
 
 https://github.com/invisiblek/klipper_config/tree/kobraplus
 
-This seems to have fixed Y axis layer shifting. Disabled interpolation but kept stealthchop.
+This seems to have fixed Y axis layer shifting.

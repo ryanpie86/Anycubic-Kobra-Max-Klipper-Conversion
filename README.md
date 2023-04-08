@@ -28,3 +28,7 @@ Changed microsteps for X/Y to 64 as per invisiblek:
 https://github.com/invisiblek/klipper_config/tree/kobraplus
 
 This seems to have fixed Y axis layer shifting.
+
+Added load/unload filament macros. Do not use these while printing, it will turn off your heaters and LEDs and change the temperature.
+
+Added my model for an Orange Pi Zero 2 enclosure which will fit the frame rail behind the screen. This enclosure accomodates having a fan attached to the inside for a clean look.
